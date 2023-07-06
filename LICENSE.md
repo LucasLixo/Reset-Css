@@ -1,6 +1,6 @@
-[MIT License](https://opensource.org/license/mit/)
+MIT License
 
-Copyright (c) 2023 [LucasLixo](https://github.com/LucasLixo/)
+Copyright (c) 2023 LucasLixo
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
