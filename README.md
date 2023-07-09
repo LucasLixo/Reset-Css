@@ -1,4 +1,4 @@
-# reset.min.css
+# Reset-Css
 
 Short project description and overview.
 
@@ -56,6 +56,6 @@ To use `reset.min.css` in your project, follow these steps:
 
 Contributions to reset.min.css are welcome. If you find any issues or want to suggest improvements, please open an issue or submit a pull request on the project's GitHub repository.
 
-## License
+## [License](LICENSE.md)
 
-This project is licensed under the( MIT License)[LICENSE.md]. See the LICENSE.md file for details.
+- This project is licensed under the `GNU Affero General Public License v3.0`.
