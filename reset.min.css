@@ -237,7 +237,9 @@ hr {
 }
 
 svg {
-    fill: currentColor;
+    fill: black;
+    width: 32px;
+    height: 32px;
 }
 
 table {
